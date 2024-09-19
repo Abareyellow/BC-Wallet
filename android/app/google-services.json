@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11261907467",
+    "project_id": "bcwallet-29037",
+    "storage_bucket": "bcwallet-29037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11261907467:android:83bf0eae10f8cfb56f6d0e",
+        "android_client_info": {
+          "package_name": "com.example.bcwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvlNhl-5uhq2pRmc9nyaw5fGAf3VMXIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
